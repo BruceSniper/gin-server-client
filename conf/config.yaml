@@ -1,0 +1,4 @@
+#role: client
+role: server
+
+server_address: 127.0.0.1
